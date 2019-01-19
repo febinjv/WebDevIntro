@@ -3,12 +3,13 @@ img {
   height: 200px;
 }
 
-background {
-  color: LemonChiffon;
+body {
+  background-color: LemonChiffon;
 }
 
 p {
  color: blue;  
+  text-color:yellow;
 }
 
 #banner {
